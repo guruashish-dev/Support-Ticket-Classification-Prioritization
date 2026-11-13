@@ -21,9 +21,6 @@ This ML system learns to:
 
 1. Open VS Code
 2. Navigate to the workspace folder:
-   ```
-   d:\internship\FUTURE_ML_02\
-   ```
 3. Open the notebook:
    ```
    support_ticket_classification.ipynb
@@ -35,7 +32,6 @@ This ML system learns to:
 
 ```bash
 # Navigate to the workspace
-cd d:\internship\FUTURE_ML_02
 
 # Create a virtual environment (optional)
 python -m venv venv
